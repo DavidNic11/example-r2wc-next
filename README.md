@@ -20,5 +20,5 @@ to build the web component and see it in a vanilla project
 
 ```sh
 npm run build:wc
-npm run server:wc
+npm run serve:wc
 ```
